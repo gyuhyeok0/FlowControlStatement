@@ -24,6 +24,7 @@ public class test {
         char op = sc.nextLine().charAt(0);
 
         int result = 0;
+        int num2 = 2;
 
         // 연산자에 대한 switch case 부분은 그대로 유지
 
